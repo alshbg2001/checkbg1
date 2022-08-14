@@ -12,7 +12,7 @@ bot = Client(
     bot_token='5131640606:AAFXnnI19LkTXWEZ0YEVzYM2TA18OFHETDQ'
 )
 
-Dev = 961743188
+Dev = 5098935434
 
 @bot.on_message(filters.command('start'))
 def start(bot, msg):
