@@ -9,7 +9,7 @@ bot = Client(
     "bot",
     api_id=2033318,
     api_hash='223cde1537f217dda4e16183f47af958',
-    bot_token='2094413581:AAEAjNaxuIJAf96P5kZgC96DN_uRKGPZjfc'
+    bot_token='5131640606:AAFXnnI19LkTXWEZ0YEVzYM2TA18OFHETDQ'
 )
 
 Dev = 961743188
